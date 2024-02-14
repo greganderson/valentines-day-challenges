@@ -49,3 +49,27 @@ if enough:
 else:
     print(f"{greg.name} didn't have enough valentines :(")
 ```
+
+
+### Love Letter
+
+Passing love letters is a nice thing to do. Create a `Letter` class that has `to`, `from`, and `contents` member variables.
+Create a `Person` class that has a `name`, and a list of `Letter`'s, and has a method that lets the `Person` Write
+a `Letter` to another `Person`, a method that receives a `Letter`, and a method that prints out all the `Letter`'s a `Person`
+has.
+
+Example:
+
+```python
+greg = Person(name="Greg")
+kylie = Person(name="Kylie")
+
+greg.print_letters()
+# prints nothing, he doesn't have any letters
+
+letter_to_kylie = Letter(to=kylie, contents="Dear Kylie, you are the best!")
+greg.write_letter(to=kylie, letter=letter_to_kylie)
+
+kylie.print_letters()
+# -> "Dear Kylie, you are the best!"
+```
