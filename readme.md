@@ -103,3 +103,18 @@ compliment = get_random_compliment()
 print(compliment)
 # "My you look dashing today!"
 ```
+
+
+### Love Calculator
+
+In middle school, sometimes kids will come up with ways to determine whether or not two people are compatible. Create
+a function that takes two names and says how compatible they are on a scale of 1-10. You could use the number of
+characters in the name, the number of similar characters, or any other metric you want!
+
+Example:
+
+```python
+love_rating = calculate_love_compatibility("Greg", "Kylie")
+print(love_rating)
+# 8.0 because 4/5 is .8
+```
