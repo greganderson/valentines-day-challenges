@@ -12,6 +12,15 @@ Remember, these challenges can only be solved on paper, but you _can_ use the py
 ChatGPT, Copilot, and VS Code have all conspired to ruin Valentine's Day, so you cannot use them to help you. All other
 IDE's like Pycharm have all joined in the efforts to destroy everyone's happiness.
 
+Another command you are able to use is `cat`, which when run on a file, prints out the contents. For example, doing this:
+
+```bash
+cat readme.md
+```
+
+would print out this entire file onto your screen. Super handy when you want to see the contents of one of the class
+files!
+
 
 ### He/She Loves Me
 
