@@ -43,7 +43,10 @@ else:
 ### Number of Valentines
 
 In elementary school, valentines are sometimes exchanged. Given a `Student`, determine whether or not they have enough
-valentines to be happy. You'll find the `Student` class in the `number_of_valentines` folder.
+valentines to be happy. You'll find the `Student` class in the `number_of_valentines` folder. How many valentines is
+enough? That depends! Some people think you need 4-5, then you're good. In 3rd grade, some kids might think you need
+at least 15. As an adult, maybe 1 is enough, so long as it is from the right person. So how many is enough? You decide!
+Maybe it depends on the person asking 🤔
 
 Example:
 
