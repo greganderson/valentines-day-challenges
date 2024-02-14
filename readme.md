@@ -65,8 +65,8 @@ else:
 
 ### Love Letter
 
-Passing love letters is a nice thing to do. Create a `Letter` class that has `to`, `from`, and `contents` member variables.
-Create a `Person` class that has a `name`, and a list of `Letter`'s, and has a method that lets the `Person` write a `Letter`
+Passing love letters is a nice thing to do. Create a `Letter` class that has `to`, `from_name`, and `contents` member variables.
+Create a `Person` class that has a `name`, and a list of `Letter`'s, and has a method that lets them write a `Letter`
 to another `Person`, a method that receives a `Letter`, and a method that prints out all the `Letter`'s a `Person` has.
 
 Example:
