@@ -127,3 +127,18 @@ love_rating = calculate_love_compatibility("Greg", "Kylie")
 print(love_rating)
 # 8.0 because 4/5 is .8
 ```
+
+
+### Heart Generator
+
+This challenge is a special one. Because of the outcomes of your function, vim has decided you can use it to write your
+solution. Write a function that prints out a heart or a broken heart out of characters based on an input of whether or
+not someone has a full heart ❤️, or a broken heart 💔.
+
+Example:
+
+```python
+broken_heart = False
+print_heart(broken_heart)
+# ASCII art heart gets printed
+```
