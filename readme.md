@@ -73,3 +73,19 @@ greg.write_letter(to=kylie, letter=letter_to_kylie)
 kylie.print_letters()
 # -> "Dear Kylie, you are the best!"
 ```
+
+
+### Flower Bouquet Cost Calculator
+
+Giving flowers on Valentine's Day is tradition, guys have to do it. It's also tradition that guys get in trouble when
+they forget. Create a function that takes in a list of `Flower`'s, then calculates the cost of the bouquet. The `Flower`
+class can be found in the `bouquet_calculator` folder.
+
+Example:
+
+```python
+bouquet = [Flower.ROSE, Flower.EDELWEISS, Flower.LILY]
+cost = calculate_bouquet_cost(bouquet)
+print(f"The cost is ${cost}")
+# prints $27.99
+```
