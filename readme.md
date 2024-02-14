@@ -48,7 +48,7 @@ valentines to be happy. You'll find the `Student` class in the `number_of_valent
 Example:
 
 ```python
-greg = Student(num_valentines=9)
+greg = Student(name="Greg", num_valentines=9)
 
 # You determine how many is enough
 enough = has_enough_valentines(greg)
