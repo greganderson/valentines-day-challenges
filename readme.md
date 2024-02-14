@@ -89,3 +89,17 @@ cost = calculate_bouquet_cost(bouquet)
 print(f"The cost is ${cost}")
 # prints $27.99
 ```
+
+
+### Compliment Generator
+
+Sometimes you've gotta come up with compliments on the fly. Lets make a function that can help! Create a function that
+randomly chooses from a random list of compliments and returns it.
+
+Example:
+
+```python
+compliment = get_random_compliment()
+print(compliment)
+# "My you look dashing today!"
+```
