@@ -10,7 +10,9 @@ you can save Valentine's Day. Good luck!
 
 Remember, these challenges can only be solved on paper, but you _can_ use the python interactive shell. Unfortunately,
 ChatGPT, Copilot, and VS Code have all conspired to ruin Valentine's Day, so you cannot use them to help you. All other
-IDE's like Pycharm have all joined in the efforts to destroy everyone's happiness.
+IDE's like Pycharm have all joined in the efforts to destroy everyone's happiness. Even vim, despite it's good-natured
+heart, has decided nobody should be happy on Valentine's Day. Emacs, as always, wants everyone to be unhappy. No changes
+there.
 
 Another command you are able to use is `cat`, which when run on a file, prints out the contents. For example, doing this:
 
